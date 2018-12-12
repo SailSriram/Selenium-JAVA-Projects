@@ -1,0 +1,214 @@
+Here are the total number of tee times for LINCOLN PARK GOLF COURSE<<< 45
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 09/27/18
+Time: 2:00 PM 
+Price without tax:$25.00
+Discount:0%
+Tax: $2.49
+Total Price: $27.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 09/27/18
+Time: 11:00 AM
+Price without tax: $41.0
+Discount: 0%
+Tax: $2.49
+Total Price: $43.49
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 09/27/18
+Time: 8:30 AM 
+Price without tax:$41.00
+Discount:0%
+Tax: $2.49
+Total Price: $43.49
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: ThuSep27
+Time: 5:30 PM 
+Price without tax:$25.00
+Discount:0%
+Provider: GOLFNOW
+Result: failure <<<We're sorry, but 1 player is no longer available.
+_____________________________________________________________________
+Here are the total number of tee times for LINCOLN PARK GOLF COURSE<<< 37
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 09/27/18
+Time: 4:20 PM 
+Price without tax:$25.00
+Discount:0%
+Tax: $2.49
+Total Price: $27.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 09/27/18
+Time: 2:30 PM 
+Price without tax:$25.00
+Discount:0%
+Tax: $2.49
+Total Price: $27.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+Here are the total number of tee times for LINCOLN PARK WEST (SKYWAY GC) | SKYWAY GOLF COURSE<<< 4
+This course in New York NY has less than five tee times
+_____________________________________________________________________
+Here are the total number of tee times for MARQUETTE PARK GOLF COURSE<<< 67
+City: Chicago IL
+Course Name: MARQUETTE PARK GOLF COURSE
+Date: 09/27/18
+Time: 12:15 PM
+Price without tax: $18.0
+Discount: 0%
+Tax: $0.00
+Total Price: $18.0
+Provider: TEEOFF
+Result: success
+_____________________________________________________________________
+City: Chicago IL
+Course Name: MARQUETTE PARK GOLF COURSE
+Date: 09/27/18
+Time: 9:52 AM 
+Price without tax:$18.09
+Discount:0%
+Tax: $0.00
+Total Price: $18.09
+Provider: TEEOFF
+Result: success
+_____________________________________________________________________
+City: Chicago IL
+Course Name: MARQUETTE PARK GOLF COURSE
+Date: 09/27/18
+Time: 4:00 PM 
+Price without tax:$15.60
+Discount:10%
+Tax: $2.49
+Total Price: $18.09
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Chicago IL
+Course Name: MARQUETTE PARK GOLF COURSE
+Date: 09/27/18
+Time: 10:00 AM
+Price without tax: $18.0
+Discount: 0%
+Tax: $0.00
+Total Price: $18.0
+Provider: TEEOFF
+Result: success
+_____________________________________________________________________
+City: Chicago IL
+Course Name: MARQUETTE PARK GOLF COURSE
+Date: 09/27/18
+Time: 2:00 PM 
+Price without tax:$15.60
+Discount:10%
+Tax: $2.49
+Total Price: $18.09
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Chicago IL
+Course Name: MARQUETTE PARK GOLF COURSE
+Date: 09/27/18
+Time: 4:00 PM 
+Price without tax:$15.60
+Discount:10%
+Tax: $2.49
+Total Price: $18.09
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+Here are the total number of tee times for VAN NUYS GOLF COURSE<<< 19
+City: Los Angeles CA
+Course Name: VAN NUYS GOLF COURSE
+Date: 09/27/18
+Time: 1:45 PM 
+Price without tax:$19.00
+Discount:0%
+Tax: $2.49
+Total Price: $21.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Los Angeles CA
+Course Name: VAN NUYS GOLF COURSE
+Date: 09/27/18
+Time: 2:45 PM 
+Price without tax:$19.00
+Discount:0%
+Tax: $2.49
+Total Price: $21.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Los Angeles CA
+Course Name: VAN NUYS GOLF COURSE
+Date: 09/27/18
+Time: 12:45 PM
+Price without tax: $19.0
+Discount: 0%
+Tax: $2.49
+Total Price: $21.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Los Angeles CA
+Course Name: VAN NUYS GOLF COURSE
+Date: 09/27/18
+Time: 12:15 PM
+Price without tax: $19.0
+Discount: 0%
+Tax: $2.49
+Total Price: $21.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Los Angeles CA
+Course Name: VAN NUYS GOLF COURSE
+Date: 09/27/18
+Time: 10:45 AM
+Price without tax: $19.0
+Discount: 0%
+Tax: $2.49
+Total Price: $21.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Los Angeles CA
+Course Name: VAN NUYS GOLF COURSE
+Date: 09/27/18
+Time: 3:45 PM 
+Price without tax:$19.00
+Discount:0%
+Tax: $2.49
+Total Price: $21.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+Here are the total number of tee times for HIGHLANDS GOLF & TENNIS CENTER<<< 81
+City: St. Louis MO
+Course Name: HIGHLANDS GOLF & TENNIS CENTER
+Date: ThuSep27
+Time: 4:20 PM 
+Price without tax:$25.00
+Discount:0%
+Provider: GOLFNOW
+Result: failure <<<We're sorry, but 1 player is no longer available.
+_____________________________________________________________________
+Here are the total number of tee times for HIGHLANDS GOLF & TENNIS CENTER<<< 70

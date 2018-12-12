@@ -1,0 +1,119 @@
+Here are the total number of tee times for FLUSHING VALLEY GOLF CLUB<<< 59
+City: Flushing, Michigan
+Course Name: FLUSHING VALLEY GOLF CLUB
+Date: 10/11/18
+Time: 6:56 PM 
+Price without tax:$1.00 
+Discount:%
+Tax: $0.00
+Total Price: $1.0
+Provider: GOLFLER
+Result: success
+_____________________________________________________________________
+City: Flushing, Michigan
+Course Name: FLUSHING VALLEY GOLF CLUB
+Date: 10/11/18
+Time: 7:04 PM 
+Price without tax:$1.00 
+Discount:%
+Tax: $0.00
+Total Price: $1.0
+Provider: GOLFLER
+Result: success
+_____________________________________________________________________
+City: Flushing, Michigan
+Course Name: FLUSHING VALLEY GOLF CLUB
+Date: 10/11/18
+Time: 6:32 PM 
+Price without tax:$20.00
+Discount:0%
+Tax: $2.49
+Total Price: $22.490000000000002
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: Flushing, Michigan
+Course Name: FLUSHING VALLEY GOLF CLUB
+Date: 10/11/18
+Time: 7:44 PM 
+Price without tax:$1.00 
+Discount:%
+Tax: $0.00
+Total Price: $1.0
+Provider: GOLFLER
+Result: success
+_____________________________________________________________________
+City: Flushing, Michigan
+Course Name: FLUSHING VALLEY GOLF CLUB
+Date: 10/11/18
+Time: 7:52 PM 
+Price without tax:$15.00
+Discount:0%
+Tax: $0.00
+Total Price: $15.0
+Provider: GOLFLER
+Result: success
+_____________________________________________________________________
+City: Flushing, Michigan
+Course Name: FLUSHING VALLEY GOLF CLUB
+Date: 10/11/18
+Time: 7:36 PM 
+Price without tax:$2.00 
+Discount:%
+Tax: $0.00
+Total Price: $2.0
+Provider: GOLFLER
+Result: success
+_____________________________________________________________________
+Here are the total number of tee times for LINCOLN PARK GOLF COURSE<<< 16
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 10/11/18
+Time: 2:30 PM 
+Price without tax:$30.00
+Discount:0%
+Tax: $2.49
+Total Price: $32.49
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 10/11/18
+Time: 3:00 PM 
+Price without tax:$30.00
+Discount:0%
+Tax: $2.49
+Total Price: $32.49
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 10/11/18
+Time: 2:30 PM 
+Price without tax:$30.00
+Discount:0%
+Tax: $2.49
+Total Price: $32.49
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: 10/11/18
+Time: 2:30 PM 
+Price without tax:$30.00
+Discount:0%
+Tax: $2.49
+Total Price: $32.49
+Provider: GOLFNOW
+Result: success
+_____________________________________________________________________
+City: San Francisco, CA
+Course Name: LINCOLN PARK GOLF COURSE
+Date: ThuOct11
+Time: 2:30 PM 
+Price without tax:$30.00
+Discount:0%
+Provider: GOLFNOW
